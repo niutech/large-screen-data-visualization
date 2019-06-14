@@ -3,34 +3,10 @@
 #### Description
 各类大屏展示模板持续更新中...
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Instructions
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Contribution
-
-1. Fork the repository
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
-
-
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![智慧物流](https://images.gitee.com/uploads/images/2019/0614/130007_bc984594_2327318.png "智慧物流.png")
+![舆情分析](https://images.gitee.com/uploads/images/2019/0614/130021_887dc34c_2327318.png "舆情分析.png")
+![智慧社区](https://images.gitee.com/uploads/images/2019/0614/130053_5cfd9a55_2327318.png "智慧社区.png")
+![车联网](https://images.gitee.com/uploads/images/2019/0614/130113_bb7810bd_2327318.png "车联网.png")
+![环境监测](https://images.gitee.com/uploads/images/2019/0614/130316_9bfc9ac7_2327318.png "环境监测.png")
+![电子商务](https://images.gitee.com/uploads/images/2019/0614/130335_a60a9904_2327318.png "电子商务.png")
+![智慧网络](https://images.gitee.com/uploads/images/2019/0614/130350_9cd91afc_2327318.png "智慧网络.png")
