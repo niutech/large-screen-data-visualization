@@ -3,7 +3,7 @@
 #### Description
 各类大屏展示模板持续更新中...
 
-![智慧物流](https://images.gitee.com/uploads/images/2019/0614/130007_bc984594_2327318.png "智慧物流.png")
+![智慧物流](https://images.gitee.com/uploads/images/2019/0614/130751_e439728b_2327318.png "智慧物流.png")
 ![舆情分析](https://images.gitee.com/uploads/images/2019/0614/130021_887dc34c_2327318.png "舆情分析.png")
 ![智慧社区](https://images.gitee.com/uploads/images/2019/0614/130053_5cfd9a55_2327318.png "智慧社区.png")
 ![车联网](https://images.gitee.com/uploads/images/2019/0614/130113_bb7810bd_2327318.png "车联网.png")
