@@ -3,35 +3,10 @@
 #### 介绍
 各类大屏展示模板持续更新中...
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![智慧物流](https://images.gitee.com/uploads/images/2019/0614/130007_bc984594_2327318.png "智慧物流.png")
+![舆情分析](https://images.gitee.com/uploads/images/2019/0614/130021_887dc34c_2327318.png "舆情分析.png")
+![智慧社区](https://images.gitee.com/uploads/images/2019/0614/130053_5cfd9a55_2327318.png "智慧社区.png")
+![车联网](https://images.gitee.com/uploads/images/2019/0614/130113_bb7810bd_2327318.png "车联网.png")
+![环境监测](https://images.gitee.com/uploads/images/2019/0614/130316_9bfc9ac7_2327318.png "环境监测.png")
+![电子商务](https://images.gitee.com/uploads/images/2019/0614/130335_a60a9904_2327318.png "电子商务.png")
+![智慧网络](https://images.gitee.com/uploads/images/2019/0614/130350_9cd91afc_2327318.png "智慧网络.png")
