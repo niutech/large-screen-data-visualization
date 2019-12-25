@@ -10,9 +10,7 @@
 ![车联网](https://images.gitee.com/uploads/images/2019/0614/130113_bb7810bd_2327318.png "车联网.png")
 ![环境监测](https://images.gitee.com/uploads/images/2019/0614/130316_9bfc9ac7_2327318.png "环境监测.png")
 ![电子商务](https://images.gitee.com/uploads/images/2019/0614/130335_a60a9904_2327318.png "电子商务.png")
-![智慧网络](https://images.gitee.com/uploads/images/2019/0614/130350_9cd91afc_2327318.png "智慧网络.png")
+![智慧交通](https://images.gitee.com/uploads/images/2019/1226/025508_8a651c15_2327318.png "智慧交通.png")
 
- **
 
 ### 收集不易，劳烦各位star：）
-** 
