@@ -17,16 +17,16 @@ This repository contains various large screen display templates / dashboards for
 - Smart finance
   - [Real-time corporate credit risk](https://niutech.github.io/large-screen-data-visualization/Smart%20finance/Real-time%20corporate%20credit%20risk/)
 - Smart government
-  - [Comprehensive analysis](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Comprehensive%20analysis/)
+  - [Comprehensive analysis](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Comprehensive%20analysis/pages/)
   - [Industrial and Commercial Taxation](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Industrial%20and%20Commercial%20Taxation/)
   - [Land transactions](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Land%20transactions/)
-  - [Public opinion analysis](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Public%20opinion%20analysis/)
+  - [Public opinion analysis](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Public%20opinion%20analysis/public.html)
   - [Smart community](https://niutech.github.io/large-screen-data-visualization/Smart%20government/Smart%20community/)
 - Smart logistics
   - [Logistics services](https://niutech.github.io/large-screen-data-visualization/Smart%20logistics/Logistics%20services/)
   - [Smart logistics](https://niutech.github.io/large-screen-data-visualization/Smart%20logistics/Smart%20logistics/)
 - Smart medicine
-  - [Medical service](https://niutech.github.io/large-screen-data-visualization/Smart%20medicine/Medical%20service/)
+  - [Medical service](https://niutech.github.io/large-screen-data-visualization/Smart%20medicine/Medical%20service/views/)
 - Smart operations and maintenance
   - [Big data statistics](https://niutech.github.io/large-screen-data-visualization/Smart%20operations%20and%20maintenance/Big%20data%20statistics/)
   - [Equipment environmental monitoring](https://niutech.github.io/large-screen-data-visualization/Smart%20operations%20and%20maintenance/Equipment%20environmental%20monitoring/)
