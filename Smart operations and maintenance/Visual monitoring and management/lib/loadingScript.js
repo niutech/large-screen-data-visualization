@@ -26,7 +26,7 @@
     }
     // 加载所有js文件
     var jsFiles = [
-        "http://www.jq22.com/jquery/jquery-1.10.2.js",
+        "lib/jquery.min.js",
         "lib/getTime.js",
         "lib/createTip.js",
         "lib/createSpeed.js",
